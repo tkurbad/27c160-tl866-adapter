@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 27C160_Adapter)(type KiCad)(uri /home/people/tkurbad/projects/amiga/27c160-tl866-adapter/kicad/27C160_Adapter.pretty)(options "")(descr ""))
+)
